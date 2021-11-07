@@ -2,7 +2,7 @@
   "name": "eslint-config-zigae",
   "description": "마리트 린트 룰",
   "sideEffects": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "myrealtrip",
     "eslint-config"
